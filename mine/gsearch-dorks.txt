@@ -1,0 +1,70 @@
+-f .npmrc -s _auth
+-f .dockercfg -s auth
+-e pem -s private
+-e ppk -s private
+-f id_dsa
+-f id_rsa
+-e sql -s "mysql dump"
+-e sql -s "mysql dump password"
+-f credentials -s aws_access_key_id
+-f .s3cfg
+-f wp-config.php
+-f .htpasswd
+-f .env -s DB_USERNAME
+-f .env -s "MAIL_HOST=smtp.gmail.com"
+-f .git-credentials
+-s PT_TOKEN -l bash
+-f .bashrc -s password
+-f .bashrc -s mailchimp
+-f .bash_profile -s aws
+rds.amazonaws.com -s password
+-e json -s api.forecast.io
+-e json -s mongolab.com
+-e yaml -s mongolab.com
+-e js -s conn.login
+-s jsforce -e js
+-s "SF_USERNAME"
+-f .tugboat
+-s HEROKU_API_KEY -l shell
+-s HEROKU_API_KEY -l json
+-f .netrc -s password
+-f _netrc -s password
+-f hub -s oauth_token
+-f robomongo.json
+-f filezilla.xml -s Pass
+-f recentservers.xml -s Pass
+-f config.json -s auths
+-f idea14.key
+-f config -s irc_pass
+-f connections.xml
+-f express.conf
+-f .pgpass
+-f proftpdpasswd
+-f ventrilo_srv.ini
+-s "[WFClient] Password=" -e ica
+-f server.cfg -s "rcon password"
+-s JEKYLL_GITHUB_TOKEN
+-f .bash_history
+-f .cshrc
+-f .history
+-f .sh_history
+-f sshd_config
+-f dhcpd.conf
+-f prod.exs
+-f prod.secret.exs
+-f configuration.php -s "JConfig password"
+-f config.php -s dbpasswd
+-f config.php -s pass
+-s "databases password"
+-s shodan_api_key -l python
+-s shodan_api_key -l shell
+-s shodan_api_key -l json
+-s shodan_api_key -l ruby
+-f fb_client_secrets.json -s app_secret
+-f GitHub.sublime-settings -s github_token
+-f client_secrets.json -s .apps.googleusercontent.com
+-f dataConfig.xml -s "dataSource JdbcDataSource password"
+-s s3.amazonaws.com
+-s storage.google
+-s storage.cloud.google
+-s digitaloceanspaces.com

